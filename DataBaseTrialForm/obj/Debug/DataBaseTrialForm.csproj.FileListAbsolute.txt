@@ -1,0 +1,12 @@
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\bin\Debug\DataBaseTrialForm.exe.config
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\bin\Debug\DataBaseTrialForm.exe
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\bin\Debug\DataBaseTrialForm.pdb
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\obj\Debug\DataBaseTrialForm.csprojAssemblyReference.cache
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\obj\Debug\DataBaseTrialForm.Form1.resources
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\obj\Debug\DataBaseTrialForm.Properties.Resources.resources
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\obj\Debug\DataBaseTrialForm.csproj.GenerateResource.cache
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\obj\Debug\DataBaseTrialForm.csproj.CoreCompileInputs.cache
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\obj\Debug\DataBaseTrialForm.csproj.CopyComplete
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\obj\Debug\DataBaseTrialForm.exe
+E:\Code\C#\DataBaseTrial\DataBaseTrialForm\obj\Debug\DataBaseTrialForm.pdb

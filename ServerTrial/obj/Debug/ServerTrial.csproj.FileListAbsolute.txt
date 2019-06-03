@@ -1,0 +1,7 @@
+E:\Code\C#\DataBaseTrial\ServerTrial\bin\Debug\ServerTrial.exe.config
+E:\Code\C#\DataBaseTrial\ServerTrial\bin\Debug\ServerTrial.exe
+E:\Code\C#\DataBaseTrial\ServerTrial\bin\Debug\ServerTrial.pdb
+E:\Code\C#\DataBaseTrial\ServerTrial\obj\Debug\ServerTrial.csprojAssemblyReference.cache
+E:\Code\C#\DataBaseTrial\ServerTrial\obj\Debug\ServerTrial.csproj.CoreCompileInputs.cache
+E:\Code\C#\DataBaseTrial\ServerTrial\obj\Debug\ServerTrial.exe
+E:\Code\C#\DataBaseTrial\ServerTrial\obj\Debug\ServerTrial.pdb

@@ -1,0 +1,9 @@
+E:\Code\C#\DataBaseTrial\DataBaseTrial\obj\Debug\DataBaseTrial.csprojAssemblyReference.cache
+E:\Code\C#\DataBaseTrial\DataBaseTrial\obj\Debug\DataBaseTrial.csproj.CoreCompileInputs.cache
+E:\Code\C#\DataBaseTrial\DataBaseTrial\bin\Debug\DataBaseTrial.exe.config
+E:\Code\C#\DataBaseTrial\DataBaseTrial\bin\Debug\DataBaseTrial.exe
+E:\Code\C#\DataBaseTrial\DataBaseTrial\bin\Debug\DataBaseTrial.pdb
+E:\Code\C#\DataBaseTrial\DataBaseTrial\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Code\C#\DataBaseTrial\DataBaseTrial\obj\Debug\DataBaseTrial.csproj.CopyComplete
+E:\Code\C#\DataBaseTrial\DataBaseTrial\obj\Debug\DataBaseTrial.exe
+E:\Code\C#\DataBaseTrial\DataBaseTrial\obj\Debug\DataBaseTrial.pdb
